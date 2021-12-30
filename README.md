@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaishnavi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Big Data
 - 📫 How to reach me through my mail - svaish2000@gmail.com
 
 <!---
